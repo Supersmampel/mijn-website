@@ -1,2 +1,2 @@
 # 404 not found
-ga naar home
+ga naar https://supersmampel.github.io/mijn-website/home.html
