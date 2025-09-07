@@ -39,7 +39,11 @@ ul li a {
 }
 
 ul li a:hover {
-    background-color: rgb(15, 8, 83);
+    background-color: rgb(23, 39, 67);
+}
+
+ul li a.selected {
+  background-color: rgb(23, 39, 67);
 }
 
 .column {
