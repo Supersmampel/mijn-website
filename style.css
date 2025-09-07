@@ -1,3 +1,37 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(211, 233, 241);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(31, 76, 103);
+}
+
+ul li {
+    float: left;
+}
+
+ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    background-color: rgb(15, 8, 83);
+}
+
+.pageContent{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 20px;
+    border: 1px solid black;
 }
