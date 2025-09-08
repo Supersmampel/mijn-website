@@ -66,6 +66,7 @@ div.header {
   z-index: 9;
   top: 46.6667px;
   width: 25%;
+  height: max-content;
 }
 
 .column.middle {
