@@ -18,6 +18,12 @@ div.header {
   font-size: 20px;
 }
 
+.menu {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
 .menu ul {
     list-style-type: none;
     margin: 0;
@@ -56,6 +62,9 @@ div.header {
 }
 
 .column.side {
+  position: sticky;
+  z-index: 9;
+  top: 46.6667px;
   width: 25%;
 }
 
