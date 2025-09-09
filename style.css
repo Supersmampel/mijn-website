@@ -62,11 +62,9 @@ div.header {
 }
 
 .column.side {
-  position: sticky;
   z-index: 9;
   top: 46.6667px;
   width: 25%;
-  height: auto;
 }
 
 .column.middle {
@@ -84,4 +82,14 @@ div.header {
     position: relative;
     width: 100%;
   }
+}
+
+#image {
+  width: 340px;
+}
+
+#opdracht {
+  text-decoration: underline;
+  font-style: italic;
+  font-weight: bold;
 }
